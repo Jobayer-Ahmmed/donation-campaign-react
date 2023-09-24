@@ -1,124 +1,123 @@
 [
-      {
-        "picture": "https://i.ibb.co/X3gSsmr/Clothing.png",
-        "title": "Trendy Casual Shirt",
-        "category": "Clothing",
-        "category_bg": "#e74c3c",
-        "card_bg": "#f2dede",
-        "text_button_bg": "#c0392b",
-        "description": "Support those in need by donating this trendy casual shirt for a better tomorrow. Your kindness will bring comfort and hope to those facing difficult times.",
-        "price": "$150"
-      },
-      {
-        "picture": "https://i.ibb.co/MpX0T4p/Food.png",
-        "title": "Meal Donation Package",
-        "category": "Food",
-        "category_bg": "#c0392b",
-        "card_bg": "#f2dede",
-        "text_button_bg": "#e74c3c",
-        "description": "Contribute to alleviating hunger and providing meals to those struggling to find sufficient food. Your donation will make a significant impact on their lives.",
-        "price": "$100"
-      },
-      {
-        "picture": "https://i.ibb.co/K985tpW/Health.png",
-        "title": "Comprehensive Health Checkup",
-        "category": "Health",
-        "category_bg": "#c0392b",
-        "card_bg": "#f2dede",
-        "text_button_bg": "#e74c3c",
-        "description": "Promote good health and well-being for all. Your contribution will support healthcare initiatives and improve the lives of individuals and communities.",
-        "price": "$200"
-      },
-      {
-        "picture": "https://i.ibb.co/Y7qSdQX/Education.png",
-        "title": "Empowerment Educational Kit",
-        "category": "Education",
-        "category_bg": "#c0392b",
-        "card_bg": "#f2dede",
-        "text_button_bg": "#e74c3c",
-        "description": "Empower students with the gift of education. Your generous donation will pave the way for brighter futures and endless opportunities.",
-        "price": "$180"
-      },
-      {
-        "picture": "https://i.ibb.co/MpX0T4p/Food.png",
-        "title": "Grocery Shopping Voucher",
-        "category": "Food",
-        "category_bg": "#3498db",
-        "card_bg": "#ecf0f1",
-        "text_button_bg": "#2980b9",
-        "description": "Invest in education and empower the next generation. Your generous support will enable students to achieve their academic goals and shape a better future.",
-        "price": "$120"
-      },
-      {
-        "picture": "https://i.ibb.co/K985tpW/Health.png",
-        "title": "Professional Medical Consultation",
-        "category": "Health",
-        "category_bg": "#2980b9",
-        "card_bg": "#ecf0f1",
-        "text_button_bg": "#3498db",
-        "description": "Support those in need by donating clothing for a better tomorrow. Your kindness will bring comfort and hope to those facing difficult times.",
-        "price": "$160"
-      },
-      {
-        "picture": "https://i.ibb.co/X3gSsmr/Clothing.png",
-        "title": "Elegant Formal Dress",
-        "category": "Clothing",
-        "category_bg": "#2980b9",
-        "card_bg": "#ecf0f1",
-        "text_button_bg": "#3498db",
-        "description": "Invest in education and empower the next generation. Your generous support will enable students to achieve their academic goals and shape a better future.",
-        "price": "$140"
-      },
-      {
-        "picture": "https://i.ibb.co/Y7qSdQX/Education.png",
-        "title": "Book Scholarship Grant",
-        "category": "Education",
-        "category_bg": "#2980b9",
-        "card_bg": "#ecf0f1",
-        "text_button_bg": "#3498db",
-        "description": "Empower students with the gift of education. Your generous donation will pave the way for brighter futures and endless opportunities.",
-        "price": "$170"
-      },
-      {
-        "picture": "https://i.ibb.co/MpX0T4p/Food.png",
-        "title": "Meal Time Bliss Voucher",
-        "category": "Food",
-        "category_bg": "#f39c12",
-        "card_bg": "#f9eb9b",
-        "text_button_bg": "#e67e22",
-        "description": "Extend a helping hand by donating clothing for those in need. Your contribution will bring warmth and comfort to individuals facing challenging times.",
-        "price": "$90"
-      },
-      {
-        "picture": "https://i.ibb.co/X3gSsmr/Clothing.png",
-        "title": "Warmth and Comfort Blanket",
-        "category": "Clothing",
-        "category_bg": "#e67e22",
-        "card_bg": "#f9eb9b",
-        "text_button_bg": "#f39c12",
-        "description": "Contribute to alleviating hunger and providing meals to those struggling to find sufficient food. Your donation will make a significant impact on their lives.",
-        "price": "$110"
-      },
-      {
-        "picture": "https://i.ibb.co/MpX0T4p/Food.png",
-        "title": "Generous Meal Box",
-        "category": "Food",
-        "category_bg": "#e67e22",
-        "card_bg": "#f9eb9b",
-        "text_button_bg": "#f39c12",
-        "description": "Help those in need by donating clothing items. Your support will ensure that individuals facing challenging circumstances have access to warm and appropriate clothing.",
-        "price": "$80"
-      },
-      {
-        "picture": "https://i.ibb.co/K985tpW/Health.png",
-        "title": "Community Health Boost",
-        "category": "Health",
-        "category_bg": "#27ae60",
-        "card_bg": "#d5f5e3",
-        "text_button_bg": "#1abc9c",
-        "description": "Promote good health and well-being for all. Your contribution will support healthcare initiatives and improve the lives of individuals and communities.",
-        "price": "$130"
-      }
-    ]
+  {
+    "picture": "https://i.ibb.co/X3gSsmr/Clothing.png",
+    "title": "Chic Casual Shirt",
+    "category": "Clothing",
+    "category_bg": "rgba(121, 194, 63, 0.20)",
+    "card_bg": "rgba(121, 194, 63, 0.15)",
+    "text_button_bg": "#79C23F",
+    "description": "Support those in need by donating this trendy casual shirt for a better tomorrow. Your kindness will bring comfort and hope to those facing difficult times.",
+    "price": "$150"
+  },
+  {
+    "picture": "https://i.ibb.co/MpX0T4p/Food.png",
+    "title": "Nourishing Meal Package",
+    "category": "Food",
+    "category_bg": "rgba(248, 113, 71, 0.20)",
+    "card_bg": "rgba(248, 113, 71, 0.15)",
+    "text_button_bg": "#F87147",
+    "description": "Contribute to alleviating hunger and providing meals to those struggling to find sufficient food. Your donation will make a significant impact on their lives.",
+    "price": "$100"
+  },
+  {
+    "picture": "https://i.ibb.co/K985tpW/Health.png",
+    "title": "Complete Health Checkup",
+    "category": "Health",
+    "category_bg": "rgba(0, 82, 255, 0.20)",
+    "card_bg": "rgba(0, 82, 255, 0.15)",
+    "text_button_bg": "#0052FF",
+    "description": "Promote good health and well-being for all. Your contribution will support healthcare initiatives and improve the lives of individuals and communities.",
+    "price": "$200"
+  },
+  {
+    "picture": "https://i.ibb.co/Y7qSdQX/Education.png",
+    "title": "Empowerment Education Kit",
+    "category": "Education",
+    "category_bg": "rgba(248, 113, 71, 0.20)",
+    "card_bg": "rgba(255, 68, 74, 0.15)",
+    "text_button_bg": "#e74c3c",
+    "description": "Empower students with the gift of education. Your generous donation will pave the way for brighter futures and endless opportunities.",
+    "price": "$180"
+  },
+  {
+    "picture": "https://i.ibb.co/K985tpW/Health.png",
+    "title": "Expert Medical Consultation",
+    "category": "Health",
+    "category_bg": "rgba(0, 82, 255, 0.20)",
+    "card_bg": "rgba(0, 82, 255, 0.15)",
+    "text_button_bg": "#0052FF",
+    "description": "Support those in need by donating clothing for a better tomorrow. Your kindness will bring comfort and hope to those facing difficult times.",
+    "price": "$160"
+  },
+  {
+    "picture": "https://i.ibb.co/Y7qSdQX/Education.png",
+    "title": "Book Scholarship Opportunity",
+    "category": "Education",
+    "category_bg": "rgba(248, 113, 71, 0.20)",
+    "card_bg": "rgba(255, 68, 74, 0.15)",
+    "text_button_bg": "#FF444A",
+    "description": "Empower students with the gift of education. Your generous donation will pave the way for brighter futures and endless opportunities.",
+    "price": "$170"
+  },
+  {
+    "picture": "https://i.ibb.co/X3gSsmr/Clothing.png",
+    "title": "Elegant Formal Attire",
+    "category": "Clothing",
+    "category_bg": "rgba(121, 194, 63, 0.20)",
+    "card_bg": "rgba(121, 194, 63, 0.15)",
+    "text_button_bg": "#79C23F",
+    "description": "Invest in education and empower the next generation. Your generous support will enable students to achieve their academic goals and shape a better future.",
+    "price": "$140"
+  },
+  {
+    "picture": "https://i.ibb.co/MpX0T4p/Food.png",
+    "title": "Grocery Shopping Bonus",
+    "category": "Food",
+    "category_bg": "rgba(248, 113, 71, 0.20)",
+    "card_bg": "rgba(248, 113, 71, 0.15)",
+    "text_button_bg": "#F87147",
+    "description": "Invest in education and empower the next generation. Your generous support will enable students to achieve their academic goals and shape a better future.",
+    "price": "$120"
+  },
+  {
+    "picture": "https://i.ibb.co/MpX0T4p/Food.png",
+    "title": "Mealtime Bliss Voucher",
+    "category": "Food",
+    "category_bg": "rgba(248, 113, 71, 0.20)",
+    "card_bg": "rgba(248, 113, 71, 0.15)",
+    "text_button_bg": "#F87147",
+    "description": "Extend a helping hand by donating clothing for those in need. Your contribution will bring warmth and comfort to individuals facing challenging times.",
+    "price": "$90"
+  },
+  {
+    "picture": "https://i.ibb.co/X3gSsmr/Clothing.png",
+    "title": "Warmth & Comfort Blanket",
+    "category": "Clothing",
+    "category_bg": "rgba(121, 194, 63, 0.20)",
+    "card_bg": "rgba(121, 194, 63, 0.15)",
+    "text_button_bg": "#79C23F",
+    "description": "Contribute to alleviating hunger and providing meals to those struggling to find sufficient food. Your donation will make a significant impact on their lives.",
+    "price": "$110"
+  },
+  {
+    "picture": "https://i.ibb.co/Y7qSdQX/Education.png",
+    "title": "Educational Journey Starter",
+    "category": "Education",
+    "category_bg": "rgba(248, 113, 71, 0.20)",
+    "card_bg": "rgba(255, 68, 74, 0.15)",
+    "text_button_bg": "#FF444A",
+    "description": "Empower students with the gift of education. Your generous donation will pave the way for brighter futures and endless opportunities.",
+    "price": "$170"
+  },
+  {
+    "picture": "https://i.ibb.co/K985tpW/Health.png",
+    "title": "Community Health Boost",
+    "category": "Health",
+    "category_bg": "rgba(0, 82, 255, 0.20)",
+    "card_bg": "rgba(0, 82, 255, 0.15)",
+    "text_button_bg": "#0052FF",
+    "description": "Promote good health and well-being for all. Your contribution will support healthcare initiatives and improve the lives of individuals and communities.",
+    "price": "$130"
+  }
+]
 
-  
