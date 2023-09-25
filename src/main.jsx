@@ -7,6 +7,7 @@ import DonationCards from './components/donation-cards-and-card/DonationCards'
 import CardDetails from './components/donation-cards-and-card/CardDetails'
 import AfterDonationCards from './components/afterDonation/AfterDonationCards'
 import ErrorPage from './components/errorPage/ErrorPage'
+import Statistics from './components/statistics/Statistics'
 
 const router = createBrowserRouter([
   {
@@ -27,6 +28,10 @@ const router = createBrowserRouter([
         path:"/donation",
         element:<AfterDonationCards/>,
         loader:()=>fetch("../donationData.json")
+      },
+      {
+        path:"/statistics",
+        element:<Statistics/>
       }
     ]
 
