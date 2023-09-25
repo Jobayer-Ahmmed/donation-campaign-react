@@ -6,11 +6,13 @@ import Root from './Root.jsx'
 import DonationCards from './components/donation-cards-and-card/DonationCards'
 import CardDetails from './components/donation-cards-and-card/CardDetails'
 import AfterDonationCards from './components/afterDonation/AfterDonationCards'
+import ErrorPage from './components/errorPage/ErrorPage'
 
 const router = createBrowserRouter([
   {
     path:"/",
     element:<Root/>,
+    errorElement:<ErrorPage/>,
     children:[
       {
         path:"/",
