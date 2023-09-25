@@ -35,7 +35,7 @@ const AfterDonationCards = () => {
           datas.slice(0, length).map((data,id)=><AfterDonationCard key={id}  data={data}/>)
         }
       </div>
-      <div  className={`${(length == datas.length)? 'hidden': ''} text-center mt-10`}>
+      <div  className={`${(length == datas.length)? 'hidden': (datas.length>=4)? '': 'hidden'} text-center mt-10`}>
         <button onClick={()=>setLength(datas.length)} className="btn bg-greenCustomColor hover:bg-green-600 active:bg-green-700 text-white">See All</button>
       </div>
     </div>
