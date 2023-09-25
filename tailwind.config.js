@@ -12,6 +12,10 @@ export default {
         secondaryColor:"#00C49F",
         greenCustomColor:"#009444",
       },
+      spacing: {
+        leftRightPadding: '130px',
+        topMargin: "80px",
+      }
 
     },
   },

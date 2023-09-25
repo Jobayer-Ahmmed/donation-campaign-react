@@ -7,3 +7,7 @@
 body{
     font-family: 'Inter', sans-serif;
 }
+.active{
+    color:#FF444A;
+    border-bottom: 2px solid #FF444A;;
+}

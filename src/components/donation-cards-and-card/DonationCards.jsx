@@ -9,7 +9,7 @@ const DonationCards = () => {
         .then(d=>setAllData(d))
     },[])
   return (
-    <div className="grid grid-cols-4 gap-6 px-12 lg:px-40">
+    <div className="mt-topMargin grid grid-cols-4 gap-6 px-12 lg:px-leftRightPadding">
         {
             allData.map(data=><DonationCard key={data.title} data={data}/>)
         }

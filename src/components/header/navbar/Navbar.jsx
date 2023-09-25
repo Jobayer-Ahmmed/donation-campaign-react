@@ -13,7 +13,7 @@ const Navbar = () => {
 
   return (
     <header>
-        <nav className="flex justify-between items-center gap-2 lg:gap-0 px-12 lg:px-40 pt-8">
+        <nav className="flex justify-between items-center gap-2 lg:gap-0 px-12 lg:px-leftRightPadding pt-8">
             <div>
                 <img src={logo} alt="logo image" className="w-44"/>
             </div>
