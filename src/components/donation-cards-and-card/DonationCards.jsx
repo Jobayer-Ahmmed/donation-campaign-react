@@ -18,7 +18,7 @@ const DonationCards = ({searchItem}) => {
     const datas = allData.filter(data=>data.category.toLowerCase()===search)
     console.log(datas)
   return (
-    <div className="mt-[380px] grid grid-cols-4 gap-6 px-12 lg:px-leftRightPadding">
+    <div className="mt-[380px] grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 px-12 lg:px-leftRightPadding">
         {
             (searchItem)? datas.map(data=><DonationCard key={data.title} data={data}/>) : allData.map(data=><DonationCard key={data.title} data={data}/>)
         } 
