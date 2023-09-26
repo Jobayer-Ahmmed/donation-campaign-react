@@ -6,7 +6,7 @@ const AfterDonationCard = ({data}) => {
     const {picture, title, category, category_bg, card_bg, text_button_bg, price} = data
 
   return (
-    <div className=' flex active:drop-shadow-2xl lg rounded-lg' style={{ backgroundColor: card_bg }}>
+    <div className='flex active:drop-shadow-2xl lg rounded-lg' style={{ backgroundColor: card_bg }}>
         <div>
             <img src={picture} alt="" className='h-full w-40 rounded-s-lg' />
         </div>
