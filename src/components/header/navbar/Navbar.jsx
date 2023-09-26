@@ -1,8 +1,9 @@
-import { useState } from "react"
+import { useState} from "react"
 import { NavLink } from "react-router-dom"
 import {AiOutlineMenu} from "react-icons/ai"
 import {AiOutlineClose} from "react-icons/ai"
 import logo from "../../../assets/images/Logo.png"
+
 
 
 const Navbar = () => {
@@ -11,9 +12,10 @@ const Navbar = () => {
         setToggle(!toggle)
     }
 
+
   return (
     <header className="relative z-10">
-        <nav className="flex justify-between items-center gap-2 lg:gap-0 px-12 lg:px-leftRightPadding pt-8">
+        <nav className=" flex justify-between items-center gap-2 lg:gap-0 px-12 lg:px-leftRightPadding pt-8">
             <div>
                 <img src={logo} alt="logo image" className="w-44"/>
             </div>
@@ -24,7 +26,7 @@ const Navbar = () => {
                         toggle? <AiOutlineMenu onClick={handleToggle}/> : <AiOutlineClose onClick={handleToggle}/>
                     }
                 </div>
-                <ul className={`absolute lg:static flex flex-col lg:flex-row duration-700 
+                <ul onClick={()=>setToggle(!toggle)} className={`absolute lg:static flex flex-col lg:flex-row duration-700 
                  bg-gray-200 lg:bg-transparent 
                 p-8 lg:p-0 rounded-lg gap-6 lg:gap-10 
                 ${!toggle? 'right-5 top-20' : '-right-56 top-20'} `}
@@ -46,3 +48,4 @@ const Navbar = () => {
 }
 
 export default Navbar
+
