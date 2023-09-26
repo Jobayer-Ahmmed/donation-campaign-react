@@ -12,7 +12,7 @@ const Navbar = () => {
     }
 
   return (
-    <header>
+    <header className="relative z-10">
         <nav className="flex justify-between items-center gap-2 lg:gap-0 px-12 lg:px-leftRightPadding pt-8">
             <div>
                 <img src={logo} alt="logo image" className="w-44"/>

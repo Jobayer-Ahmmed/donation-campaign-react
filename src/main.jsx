@@ -8,6 +8,7 @@ import CardDetails from './components/donation-cards-and-card/CardDetails'
 import AfterDonationCards from './components/afterDonation/AfterDonationCards'
 import ErrorPage from './components/errorPage/ErrorPage'
 import Statistics from './components/statistics/Statistics'
+import Home from './components/home/Home'
 
 const router = createBrowserRouter([
   {
@@ -17,7 +18,7 @@ const router = createBrowserRouter([
     children:[
       {
         path:"/",
-        element:<DonationCards/>
+        element:<Home/>
       },
       {
         path:"/card-details/:title",
