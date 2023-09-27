@@ -1,9 +1,7 @@
-
-
 [
   {
     "picture": "https://i.ibb.co/ftQzy9f/clothe2.jpg",
-    "title": "Chic Casual Shirt",
+    "title": "Donate Chic Casual Shirt",
     "category": "Clothing",
     "category_bg": "rgba(121, 194, 63, 0.20)",
     "card_bg": "rgba(121, 194, 63, 0.15)",
@@ -13,7 +11,7 @@
   },
   {
     "picture": "https://i.ibb.co/Rh9Z53c/food2-1.jpg",
-    "title": "Nourishing Meal Package",
+    "title": "Contribute Nourishing Meal Package",
     "category": "Food",
     "category_bg": "rgba(248, 113, 71, 0.20)",
     "card_bg": "rgba(248, 113, 71, 0.15)",
@@ -23,7 +21,7 @@
   },
   {
     "picture": "https://i.ibb.co/QdVSnqY/health1.jpg",
-    "title": "Complete Health Checkup",
+    "title": "Sponsor Complete Health Checkup",
     "category": "Health",
     "category_bg": "rgba(0, 82, 255, 0.20)",
     "card_bg": "rgba(0, 82, 255, 0.15)",
@@ -33,7 +31,7 @@
   },
   {
     "picture": "https://i.ibb.co/qnHzP59/education1.jpg",
-    "title": "Empowerment Education Kit",
+    "title": "Empower with Education Kit",
     "category": "Education",
     "category_bg": "rgba(248, 113, 71, 0.20)",
     "card_bg": "rgba(255, 68, 74, 0.15)",
@@ -43,7 +41,7 @@
   },
   {
     "picture": "https://i.ibb.co/Q6PW57P/health2.jpg",
-    "title": "Expert Medical Consultation",
+    "title": "Support Expert Medical Consultation",
     "category": "Health",
     "category_bg": "rgba(0, 82, 255, 0.20)",
     "card_bg": "rgba(0, 82, 255, 0.15)",
@@ -53,7 +51,7 @@
   },
   {
     "picture": "https://i.ibb.co/CngcFPS/education2.jpg",
-    "title": "Book Scholarship Opportunity",
+    "title": "Provide Book Scholarship Opportunity",
     "category": "Education",
     "category_bg": "rgba(248, 113, 71, 0.20)",
     "card_bg": "rgba(255, 68, 74, 0.15)",
@@ -63,7 +61,7 @@
   },
   {
     "picture": "https://i.ibb.co/N1BX0v0/clothe3.jpg",
-    "title": "Elegant Formal Attire",
+    "title": "Donate Elegant Formal Attire",
     "category": "Clothing",
     "category_bg": "rgba(121, 194, 63, 0.20)",
     "card_bg": "rgba(121, 194, 63, 0.15)",
@@ -73,17 +71,17 @@
   },
   {
     "picture": "https://i.ibb.co/QdTwWwQ/food3-1.jpg",
-    "title": "Grocery Shopping Bonus",
+    "title": "Donate Grocery Shopping Bonus",
     "category": "Food",
     "category_bg": "rgba(248, 113, 71, 0.20)",
     "card_bg": "rgba(248, 113, 71, 0.15)",
     "text_button_bg": "#F87147",
-    "description": "Invest in education and empower the next generation. Your generous support will enable students to achieve their academic goals and shape a better future.",
+    "description": "Extend a helping hand by providing a bonus for grocery shopping. Your contribution brings warmth and comfort to those in need.",
     "price": "$120.00"
   },
   {
     "picture": "https://i.ibb.co/VY0mdqW/food1-1.jpg",
-    "title": "Mealtime Bliss Voucher",
+    "title": "Share a Mealtime Bliss Voucher",
     "category": "Food",
     "category_bg": "rgba(248, 113, 71, 0.20)",
     "card_bg": "rgba(248, 113, 71, 0.15)",
@@ -93,7 +91,7 @@
   },
   {
     "picture": "https://i.ibb.co/pRftSTs/clothe1.jpg",
-    "title": "Warmth & Comfort Blanket",
+    "title": "Donate Warmth & Comfort Blanket",
     "category": "Clothing",
     "category_bg": "rgba(121, 194, 63, 0.20)",
     "card_bg": "rgba(121, 194, 63, 0.15)",
@@ -103,7 +101,7 @@
   },
   {
     "picture": "https://i.ibb.co/G2WQvpT/education3.jpg",
-    "title": "Educational Journey Starter",
+    "title": "Support an Educational Journey Starter",
     "category": "Education",
     "category_bg": "rgba(248, 113, 71, 0.20)",
     "card_bg": "rgba(255, 68, 74, 0.15)",
@@ -113,12 +111,12 @@
   },
   {
     "picture": "https://i.ibb.co/TcczK66/health3.jpg",
-    "title": "Community Health Boost",
+    "title": "Boost Community Health",
     "category": "Health",
     "category_bg": "rgba(0, 82, 255, 0.20)",
     "card_bg": "rgba(0, 82, 255, 0.15)",
     "text_button_bg": "#0052FF",
-    "description": "Promote good health and well-being for all. Your contribution will support healthcare initiatives and improve the lives of individuals and communities.",
+    "description": "Contribute to community health with this initiative. Your support enhances healthcare and well-being for individuals and communities.",
     "price": "$130.00"
   }
 ]

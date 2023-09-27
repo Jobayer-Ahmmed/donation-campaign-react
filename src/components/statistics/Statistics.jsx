@@ -46,7 +46,7 @@ const data = [
 
   return (
     <div>
-    <ResponsiveContainer width="100%" height={350}>
+    <ResponsiveContainer width="100%" height={400}>
       <PieChart>
         <Pie
             data={data}
