@@ -8,7 +8,7 @@ const DonationCard = ({data}) => {
     <div onClick={()=>detailsNavigate(`/card-details/${title}`)} className='cursor-pointer active:drop-shadow-2xl lg rounded-lg' style={{ backgroundColor: card_bg }}>
         <img src={picture} alt="" className='rounded-t-lg' />
         <button className='px-3 py-1 rounded m-4 text-sm font-medium' style={{ backgroundColor: category_bg, color: text_button_bg}}>{category}</button>
-        <h3 className='mb-4 ml-4 text-xl font-semibold' style={{ color: text_button_bg}}>{title}</h3>
+        <h3 className='mb-4 mx-4  text-xl font-semibold' style={{ color: text_button_bg}}>{title}</h3>
     </div>
   )
 }
