@@ -20,7 +20,7 @@ const CardDetails = () => {
     <div className="mt-topMargin px-12 lg:px-leftRightPadding">
       <div className="relative w-full">
         <img src={picture} alt="" className=" w-full h-1/2 md:h-[500px] rounded-lg"/>
-        <div className="absolute bottom-0 w-full h-14 md:h-24 bg-black bg-opacity-40 rounded-b-lg">
+        <div className="absolute bottom-0 w-full h-14 md:h-[105px] bg-black bg-opacity-40 rounded-b-lg">
           <button onClick={handleDonation} className="absolute left-6 bottom-3 md:bottom-6 border-0  md:text-xl capitalize font-semibold text-white px-3 py-1 md:px-6 md:py-3 rounded" style={{backgroundColor:text_button_bg}}>Donate {price}</button>
         </div>
       </div>

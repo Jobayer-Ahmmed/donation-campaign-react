@@ -17,7 +17,7 @@ const Banner = ({handleSearch}) => {
   }
   return (
     <div className="absolute top-0 w-full h-[500px]">
-      <img src={bannerImg} alt="Banner Image" className="w-full h-full object-cover opacity-5"/>
+      <img src={bannerImg} alt="Banner Image" className="w-full h-full object-cover opacity-[.06]"/>
       <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
         <h1 className="text-2xl md:text-[44px]  font-semibold md:font-bold  mb-10 text-center">I Grow By Helping People In Need</h1>
         <form onSubmit={handleSubmit} className="flex justify-center w-full md:w-[750px]">
